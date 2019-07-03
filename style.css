@@ -1,0 +1,21 @@
+body {
+    background-image: url(hen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-image-width: 200px;
+}
+
+h3 {
+    text-shadow: 2px;
+    padding: 5px;
+    text-decoration-color: white;
+    text-decoration-color: white;
+}
+
+p {
+    text-decoration-color: hsl(750, 40%, 65%);
+}
+
+.gallery img:hover {
+    transform: scale(1.5);
+}
